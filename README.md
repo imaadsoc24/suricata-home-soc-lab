@@ -44,3 +44,16 @@ This confirmed signatures were matching network traffic correctly.
 I learned the difference between generating traffic and detecting it.
 
 Detection depends on signatures and behaviour, not just running tools.
+
+---
+
+## Detection Proof (Screenshots)
+
+### 1. Reconnaissance Scan (Nmap)
+![Nmap Scan](screenshots/nmap-scan.png)
+
+### 2. Suricata Detecting Activity
+![Suricata Alert](screenshots/suricata-alert.png)
+
+### 3. Suricata Running Live Monitoring
+![Suricata Running](screenshots/suricata-running.png)
